@@ -1,0 +1,17 @@
+.Feedback {
+    width: 630px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  /*   justify-content: center; */
+    /* align-items: center; */
+    /* font-size: 40px; */
+    font-size: 20px;
+    /* text-transform: uppercase; */
+    /* color: blue; */
+    background: linear-gradient(lightblue, lightyellow);
+    padding: 30px;
+  }
+  .Statistics__title {
+    color: blue;
+  }
